@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+.env
+
+# Firebase credentials
+student-registration-41199-firebase-adminsdk-fbsvc-2bbe8fb7e2.json
+
+# Logs and debug
+*.log
