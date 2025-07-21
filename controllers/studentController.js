@@ -1,5 +1,5 @@
 const db = require("../firebaseConfig");
-const { sendConfirmationEmail } = require("../../student-registration-backend/emailService");
+const { sendConfirmationEmail } = require("../services/emailService");
 const { v4: uuidv4 } = require("uuid");
 
 exports.registerStudent = async (req, res) => {
