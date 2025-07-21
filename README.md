@@ -97,4 +97,6 @@ Intern at DETZ Global Pvt Ltd
 
 ---
 
+## 🎥 Demo Video
 
+📺 [Watch the Demo](https://drive.google.com/file/d/1kJR3-Z_94k9CtZpoTXXpWS6FK-2624e9/view?usp=sharing)
